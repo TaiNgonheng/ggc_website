@@ -6,7 +6,7 @@ const PartnersSeciton = () => {
   return (
     <Section title="Our Partners">
       <div className="flex flex-wrap items-center justify-center">
-        <PartnersCard name="Glean Asia" image="/assets/partners/glean.svg" />
+        <PartnersCard name="People" image="/assets/partners/partner.png" />
       </div>
     </Section>
   );

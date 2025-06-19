@@ -35,10 +35,10 @@ const HeroSection = () => {
       </div>
       {/* right side */}
       <Image
-        src="/assets/toadbag.png"
-        className="hidden xl:block"
-        width={710}
-        height={610}
+        src="/assets/banner.png"
+        className="xl:block mix-blend-multiply"
+        width={540}
+        height={460}
         alt="toadbag"
       ></Image>
     </section>
